@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b483b013-3aae-4f3a-8d7f-e978d515a8a9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Dungeons_Online$All_in_Dungeons_Online.ic" NAME="All in Dungeons_Online Coverage Results" MODIFIED="1581068047575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Dungeons_Online$Client.ic" NAME="Client Coverage Results" MODIFIED="1581066607096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bg.sofia.uni.fmi.mjt.Multiplayer.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="917307477">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.193" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.65" value="2" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="82" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="82" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="63" />
+          <entry key="java" value="18930" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="18930" />
+          <entry key="PLAIN_TEXT" value="63" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/multiplayer/ClientConnectionRunnable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="289" column="33" lean-forward="true" selection-start-line="289" selection-start-column="33" selection-end-line="289" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#ClientConnectionRunnable#0;class#ClientConnectionRunnable#0" />
+                <element signature="method#getCurrentPlayer#0;class#ClientConnectionRunnable#0" />
+                <element signature="method#findAnotherPlayerInTheCell#0;class#ClientConnectionRunnable#0" />
+                <element signature="method#commandPickTreasure#0;class#ClientConnectionRunnable#0" />
+                <element signature="method#commandExchange#0;class#ClientConnectionRunnable#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/Field/MapImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/actors/Minion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/field/Cell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/actors/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="92" selection-start-line="92" selection-end-line="92" />
+              <folding>
+                <element signature="method#levelUp#0;class#Player#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/multiplayer/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="64" column="18" lean-forward="true" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#842#843#0" expanded="true" />
+                <element signature="e#876#877#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/actors/Backpack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/multiplayer/ClientRunnable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/field/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/field/MapImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="156" selection-start-line="156" selection-end-line="156" />
+              <folding>
+                <element signature="method#getMinion#0;class#MapImpl#0" />
+                <element signature="method#getTreasure#0;class#MapImpl#0" />
+                <element signature="method#MapImpl#0;class#MapImpl#0" />
+                <element signature="method#initializeMap#0;class#MapImpl#0" />
+                <element signature="method#initializeObstacles#0;class#MapImpl#0" />
+                <element signature="method#convertToStringBuilder#0;class#MapImpl#0" />
+                <element signature="method#printMap#0;class#MapImpl#0" />
+                <element signature="method#randomNumberGenerator#0;class#MapImpl#0" />
+                <element signature="method#randomNumberGeneratorForTreasures#0;class#MapImpl#0" />
+                <element signature="method#setRandomTreasure#0;class#MapImpl#0" />
+                <element signature="method#putMinionOnMap#0;class#MapImpl#0" />
+                <element signature="method#putPlayerOnMap#0;class#MapImpl#0" />
+                <element signature="method#putTreasureOnMap#0;class#MapImpl#0" />
+                <element signature="method#update#0;class#MapImpl#0" />
+                <element signature="method#isPossibleMove#0;class#MapImpl#0" />
+                <element signature="method#move#0;class#MapImpl#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Field/TreasureBuilder.java" />
+        <option value="$PROJECT_DIR$/test/MapImplTest.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Actors/Actor.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Field/Treasure.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Field/Spell.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Field/Potion.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Field/HealthPotion.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Field/Cell.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Multiplayer/ClientRunnable.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Field/Map.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Field/MapImpl.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Multiplayer/Client.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Actors/Minion.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Actors/Backpack.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Field/Weapon.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Multiplayer/Server.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Actors/Player.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Multiplayer/ClientConnectionRunnable.java" />
+        <option value="$PROJECT_DIR$/test/Field/MapImplTest.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/actors/Minion.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/multiplayer/Server.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/multiplayer/ClientConnectionRunnable.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-43" />
+    <option name="y" value="79" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Dungeons_Online" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dungeons_Online" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dungeons_Online" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dungeons_Online" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dungeons_Online" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dungeons_Online" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mjt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dungeons_Online" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dungeons_Online" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mjt" type="462c0819:PsiDirectoryNode" />
+              <item name="multiplayer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dungeons_Online" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dungeons_Online" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581504491472" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in Dungeons_Online">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.multiplayer.Client" />
+      <module name="Dungeons_Online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.multiplayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.multiplayer.Server" />
+      <module name="Dungeons_Online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.multiplayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Dungeons_Online" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Dungeons_Online" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapImplTest.testMoveDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Dungeons_Online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Field.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Field" />
+      <option name="MAIN_CLASS_NAME" value="Field.MapImplTest" />
+      <option name="METHOD_NAME" value="testMoveDown" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapImplTest.testMoveUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Dungeons_Online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Field.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Field" />
+      <option name="MAIN_CLASS_NAME" value="Field.MapImplTest" />
+      <option name="METHOD_NAME" value="testMoveUp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MapImplTest.testMoveUp" />
+      <item itemvalue="JUnit.MapImplTest.testMoveDown" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="JUnit.All in Dungeons_Online" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Dungeons_Online" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="JUnit.MapImplTest.testMoveUp" />
+        <item itemvalue="JUnit.MapImplTest.testMoveDown" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b483b013-3aae-4f3a-8d7f-e978d515a8a9" name="Default Changelist" comment="" />
+      <created>1580373838159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580373838159</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MapImplTest_testMoveUp - 2020.02.06 at 17h 43m 06s.xml">
+      <configuration name="MapImplTest.testMoveUp" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapImplTest_testMoveUp - 2020.02.06 at 17h 43m 34s.xml">
+      <configuration name="MapImplTest.testMoveUp" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapImplTest_testMoveUp - 2020.02.06 at 17h 47m 10s.xml">
+      <configuration name="MapImplTest.testMoveUp" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapImplTest_testMoveUp - 2020.02.06 at 17h 47m 59s.xml">
+      <configuration name="MapImplTest.testMoveUp" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapImplTest_testMoveDown - 2020.02.06 at 17h 51m 56s.xml">
+      <configuration name="MapImplTest.testMoveDown" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapImplTest_testMoveDown - 2020.02.06 at 17h 52m 05s.xml">
+      <configuration name="MapImplTest.testMoveDown" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapImplTest_testMoveDown - 2020.02.06 at 17h 52m 14s.xml">
+      <configuration name="MapImplTest.testMoveDown" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapImplTest_testMoveUp - 2020.02.06 at 17h 52m 23s.xml">
+      <configuration name="MapImplTest.testMoveUp" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapImplTest_testMoveUp - 2020.02.06 at 17h 52m 32s.xml">
+      <configuration name="MapImplTest.testMoveUp" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Dungeons_Online - 2020.02.07 at 11h 34m 39s.xml">
+      <configuration name="All in Dungeons_Online" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3327869" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2442623" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/out/production/Dungeons_Online/bg/sofia/uni/fmi/mjt/Field/MapImpl.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/Field/TreasureBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/test/MapImplTest.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/actors/Actor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/field/HealthPotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/field/ManaPotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/field/Treasure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/field/Weapon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/field/Spell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/multiplayer/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="89" column="34" selection-start-line="89" selection-start-column="34" selection-end-line="89" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/field/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/actors/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <element signature="method#levelUp#0;class#Player#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/actors/Backpack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/multiplayer/ClientRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/field/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/field/MapImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
+          <folding>
+            <element signature="method#getMinion#0;class#MapImpl#0" />
+            <element signature="method#getTreasure#0;class#MapImpl#0" />
+            <element signature="method#MapImpl#0;class#MapImpl#0" />
+            <element signature="method#initializeMap#0;class#MapImpl#0" />
+            <element signature="method#initializeObstacles#0;class#MapImpl#0" />
+            <element signature="method#convertToStringBuilder#0;class#MapImpl#0" />
+            <element signature="method#printMap#0;class#MapImpl#0" />
+            <element signature="method#randomNumberGenerator#0;class#MapImpl#0" />
+            <element signature="method#randomNumberGeneratorForTreasures#0;class#MapImpl#0" />
+            <element signature="method#setRandomTreasure#0;class#MapImpl#0" />
+            <element signature="method#putMinionOnMap#0;class#MapImpl#0" />
+            <element signature="method#putPlayerOnMap#0;class#MapImpl#0" />
+            <element signature="method#putTreasureOnMap#0;class#MapImpl#0" />
+            <element signature="method#update#0;class#MapImpl#0" />
+            <element signature="method#isPossibleMove#0;class#MapImpl#0" />
+            <element signature="method#move#0;class#MapImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Field/MapImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/actors/Minion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/multiplayer/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="64" column="18" lean-forward="true" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/multiplayer/ClientConnectionRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="289" column="33" lean-forward="true" selection-start-line="289" selection-start-column="33" selection-end-line="289" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ClientConnectionRunnable#0;class#ClientConnectionRunnable#0" />
+            <element signature="method#getCurrentPlayer#0;class#ClientConnectionRunnable#0" />
+            <element signature="method#findAnotherPlayerInTheCell#0;class#ClientConnectionRunnable#0" />
+            <element signature="method#commandPickTreasure#0;class#ClientConnectionRunnable#0" />
+            <element signature="method#commandExchange#0;class#ClientConnectionRunnable#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
